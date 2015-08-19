@@ -1,0 +1,92 @@
+#rescue_site a:hover, #rescue_site a:focus, .tribe-events-widget-link a:hover, .top-bar-section li.active:not(.has-form) a:hover:not(.button), .tribe-events-widget-link a:hover, .tribe-events-single .tribe-events-event-cost span {
+  color: #8a5de1!important; 
+}
+#rescue_site button, #rescue_site .button, .search-form input[type="submit"], .tribe-events-list .tribe-events-event-cost span, a.tribe-events-read-more, .inner_sidebar .tribe-events-list-widget .tribe-events-widget-link a, .footer_widget .tribe-events-list-widget .tribe-events-widget-link a, .rescue_portfolio .filter_wrap ul li.filter.active, .rescue_portfolio .filter_wrap ul li.filter:hover, #comments .rescue_staff {
+  background-color: #8a5de1!important;
+  border-color: #8a5de1!important;
+}
+#rescue_site button:hover, #rescue_site .button:hover, .search-form input[type="submit"]:hover, .tribe-events-list .tribe-events-event-cost span:hover, a.tribe-events-read-more:hover, .inner_sidebar .tribe-events-list-widget .tribe-events-widget-link a:hover, .footer_widget .tribe-events-list-widget .tribe-events-widget-link a:hover {
+  background-color: #6f41c8!important;
+  color: #ffffff!important;
+}
+.format-quote .entry-content, .format-link .entry-content {
+    background-color: #8a5de1!important;
+}
+ul.pagination li span.current {
+  background-color: #8a5de1!important;
+}
+
+/* Home Header */
+.top_header_wrap, .top_header_wrap nav, .top_header_wrap .top-bar-section li:not(.has-form) a:not(.button), .top_header_wrap .top-bar-section .dropdown li:not(.has-form) a:not(.button), .top_header_wrap .top-bar-section ul, .top_header_wrap .top-bar.expanded .title-area { 
+  background-color: #250e50!important;
+}
+.bottom_header_wrap, .bottom_header_wrap nav, .bottom_header_wrap .top-bar-section li:not(.has-form) a:not(.button), .bottom_header_wrap .top-bar-section .dropdown li:not(.has-form) a:not(.button), .bottom_header_wrap .top-bar-section ul, .bottom_header_wrap .top-bar.expanded .title-area, .top-bar-section li.active:not(.has-form) a:hover:not(.button) {
+  background-color: #56407f!important;
+}
+
+/* Home Hero Section */
+.hero_section, .inner_sidebar .widget_mailchimpsf_widget {
+  background-color: #4f3b75!important;
+}
+.hero_section h1.hero_h1 {
+  color: #ba9cf2!important;
+}
+.hero_section hr {
+  background: #8a5de1!important;
+}
+.hero_section h2.hero_h2 {
+  color: #ffffff!important;
+}
+.hero_section .button {
+  background-color: #8a5de1!important;
+}
+.hero_section .button:hover {
+  background-color: #713ed1!important;
+}
+
+/* Home Bio */
+.home_bio .button:hover {
+  color: #ffffff!important;
+}
+
+/* Home Events */
+.home_widget_events .tribe-events-list-widget-events:hover .home_event_button {
+  border: 4px solid #8a5de1!important;
+  background: #8a5de1!important;
+  color: #ffffff!important;
+}
+.home_widget_events .tribe-events-list-widget-events:hover a {
+  color: #8a5de1!important;
+}
+.home_widget_events .home_event_button {
+  border: 4px solid #8a5de1!important;
+  color: #8a5de1!important;
+}
+
+/* Home Posts */
+ul.bjqs-controls.v-centered li a {
+  background: #56407f!important;
+}
+ul.bjqs-controls.v-centered li a:hover, ul.bjqs-controls.v-centered li a:focus {
+  background: #4f3b75!important;
+}
+
+/* Home Images */
+.view h2 {
+  background: rgba(113, 62, 209, 0.8)!important;
+}
+.view a.info {
+  background: #713ed1!important;
+}
+
+/* Footer */
+.donation_wrap {
+  background: #34383c!important;
+}
+.donation_wrap .donation_button:hover {
+  border: 4px solid #713ed1!important;
+  background: #713ed1!important;
+}
+footer#site_footer {
+  background: #222425!important;
+}
